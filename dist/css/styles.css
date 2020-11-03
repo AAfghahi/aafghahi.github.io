@@ -6258,6 +6258,7 @@ button.bg-dark:focus {
   border-color: #fff !important;
 }
 
+
 .rounded-sm {
   border-radius: 0.25rem !important;
 }
@@ -10169,6 +10170,9 @@ h3 {
   overflow: hidden;
 }
 i[class*='devicon']{
+  font-size:4rem;
+}
+.iconify{
   font-size:4rem;
 }
 
