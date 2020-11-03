@@ -10159,6 +10159,28 @@ h3 {
     font-size: 1.5rem;
   }
 }
+
+.skills .skills-item{
+  cursor: pointer;
+  position: relative;
+  display: block;
+  max-width: 25rem;
+  border-radius: 0.5rem;
+  overflow: hidden;
+}
+i[class*='devicon']{
+  font-size:4rem;
+}
+
+.skills-item-caption{
+  display:flex;
+  align-items:center;
+  justify-content: center;
+  height: 100%;
+  width: 100%;
+  flex-direction: column;
+}
+
 .portfolio .portfolio-item {
   cursor: pointer;
   position: relative;
@@ -10167,6 +10189,8 @@ h3 {
   border-radius: 0.5rem;
   overflow: hidden;
 }
+
+
 .portfolio .portfolio-item .portfolio-item-caption {
   position: absolute;
   top: 0;
