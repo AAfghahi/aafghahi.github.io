@@ -1,6 +1,6 @@
 {
-    "title": "Freelancer",
-    "name": "startbootstrap-freelancer",
+    "title": "Arash Afghahi",
+    "name": "Portfolio",
     "version": "6.0.4",
     "scripts": {
         "build": "npm run clean && npm run build:pug && npm run build:scss && npm run build:scripts && npm run build:assets",
@@ -12,7 +12,7 @@
         "start": "npm run build && node scripts/start.js",
         "start:debug": "npm run build && node scripts/start-debug.js"
     },
-    "description": "A freelancer portfolio HTML theme for Bootstrap.",
+    "description": "My Portfolio website!",
     "keywords": [
         "css",
         "sass",
@@ -23,20 +23,6 @@
         "theme",
         "template"
     ],
-    "homepage": "https://startbootstrap.com/themes/freelancer",
-    "bugs": {
-        "url": "https://github.com/StartBootstrap/startbootstrap-freelancer/issues",
-        "email": "feedback@startbootstrap.com"
-    },
-    "license": "MIT",
-    "author": "Start Bootstrap",
-    "contributors": [
-        "David Miller (http://davidmiller.io/)"
-    ],
-    "repository": {
-        "type": "git",
-        "url": "https://github.com/StartBootstrap/startbootstrap-freelancer.git"
-    },
     "dependencies": {
         "bootstrap": "4.5.0"
     },

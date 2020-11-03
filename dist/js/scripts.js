@@ -1,7 +1,7 @@
 /*!
-    * Start Bootstrap - Freelancer v6.0.4 (https://startbootstrap.com/themes/freelancer)
-    * Copyright 2013-2020 Start Bootstrap
-    * Licensed under MIT (https://github.com/StartBootstrap/startbootstrap-freelancer/blob/master/LICENSE)
+    * Start Bootstrap - Arash Afghahi v6.0.4 (undefined)
+    * Copyright 2013-2020 undefined
+    * Licensed under undefined (https://github.com/StartBootstrap/Portfolio/blob/master/LICENSE)
     */
     (function($) {
     "use strict"; // Start of use strict
